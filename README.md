@@ -1,4 +1,4 @@
-
+<h1>AI-Powered Chat App using MERN Stack 🚀</h1><BR>
 ## Installation
 
 ### Backend
